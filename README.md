@@ -1,8 +1,9 @@
 # LaravelCountryFlags Package for Laravel
 
 [![GitHub](https://img.shields.io/github/stars/codepil0t/laravel-country-flags)](https://github.com/codepil0t/laravel-country-flags)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This package provides country flags for Laravel applications.
+This package provides country flags for Laravel applications (compatible with Laravel 8+ up to Laravel 12).
 
 ## Installation
 

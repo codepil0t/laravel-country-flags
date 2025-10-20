@@ -1,5 +1,6 @@
 {
     "name": "codepil0t/laravel-country-flags",
+    "version": "1.0.0",
     "description": "A Laravel package for country flags",
     "type": "library",
     "license": "MIT",
@@ -23,7 +24,10 @@
     "autoload": {
         "psr-4": {
             "Codepil0t\\LaravelCountryFlags\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
